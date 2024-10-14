@@ -47,11 +47,7 @@
 
 # Note
 
-Sometimes users may not get added at all, this may be because the account is probably limited or you entered a channel. Try with another account. 
-
-# Buy me a coffee
-
-https://www.buymeacoffee.com/denizshabani
+Sometimes users may not get added at all, this may be because the account is probably limited or you entered a channel. Try with another account.
 
 # Warning
 
