@@ -1,4 +1,4 @@
-# Version 1.1
+# Ver | 2.0
 
 <b>tldr</b>: Adds accounts via phone number and API. If you want to add accounts only via phone, then scroll to the end. If you want more free projects like this, then please support me!
 
@@ -61,7 +61,7 @@ https://www.buymeacoffee.com/denizshabani
 
 * I have also created a scraper and adder which lets you add accounts only via phone number(no api needed). If you need it contact me:
  
-[![Telegram Contact](https://img.shields.io/badge/Telegram-Contact-brightgreen)](https://t.me/noneofyourbusiness69) 
+[![Telegram Contact](https://img.shields.io/badge/Telegram-Contact-brightgreen)](https://t.me/ivansslo) 
 * If you have any problems regarding the script then write it in this groupchat:
 
 [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/GitHubScriptsHelp)
